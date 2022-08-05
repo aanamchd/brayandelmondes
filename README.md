@@ -12,7 +12,7 @@ Eu sou Desenvolvedor Flutter e PHP, já criei diversos apps e websites utilizand
 
 
 ## 🛠 Habilidades
-Flutter, PHP, HTML. CSS, MYSQL....
+Flutter, Swiftw, PHP, HTML. CSS, MYSQL....
 
 
 ## Outras seções comuns em perfis do GitHub
