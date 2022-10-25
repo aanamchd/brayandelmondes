@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou Desenvolvedor Flutter e PHP, já criei diversos apps e websites utilizando estas tecnologias.
+Eu sou Desenvolvedor Java, Dart(Flutter) e PHP, já criei diversos apps e websites utilizando estas tecnologias.
 
 
 ## 🔗 Links
