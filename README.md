@@ -12,7 +12,7 @@ Eu sou Desenvolvedor Java, Dart(Flutter) e PHP, já criei diversos apps e websit
 
 
 ## 🛠 Habilidades
-Flutter, Swift, PHP, HTML. CSS, MYSQL....
+Java, Flutter, Swift, PHP, HTML. CSS, MYSQL....
 
 
 ## Outras seções comuns em perfis do GitHub
