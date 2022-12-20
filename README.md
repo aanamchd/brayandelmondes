@@ -18,6 +18,6 @@ Java, Flutter, Swift, PHP, HTML. CSS, MYSQL....
 ## Outras seções comuns em perfis do GitHub
 👩‍💻 Trabalho atualmente no Desenvolvimento de WebSites e Apps para IOS e Android
 
-🧠 Estou aprendendo Flutter e PHP todos os dias
+🧠 Estou melhorando em java todos os dias!
 
 
