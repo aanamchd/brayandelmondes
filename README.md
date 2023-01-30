@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou Desenvolvedor Java, Dart(Flutter) e PHP, já criei diversos apps e websites utilizando estas tecnologias.
+Eu sou Desenvolvedor Java/Kotlin, Dart(Flutter) e PHP, já criei diversos apps e websites utilizando estas tecnologias.
 
 
 ## 🔗 Links
@@ -12,7 +12,7 @@ Eu sou Desenvolvedor Java, Dart(Flutter) e PHP, já criei diversos apps e websit
 
 
 ## 🛠 Habilidades
-Java, Flutter, Swift, PHP, HTML. CSS, MYSQL....
+Java, Kotlin, Flutter, Swift, PHP, HTML. CSS, MYSQL....
 
 
 ## Outras seções comuns em perfis do GitHub
